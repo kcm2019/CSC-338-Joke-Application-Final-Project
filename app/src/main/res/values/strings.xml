@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="joke_pasta">What do you call a fake noodle?</string>
+    <string name="joke_soccer">What lights up a soccer stadium?</string>
+    <string name="joke_fish">What do you call a fish without the eyes?</string>
+    <string name="joke_clock">Why cant we eat clocks?</string>
+    <string name="punchline_pasta">An impasta</string>
+    <string name="punchline_soccer">A soccer match</string>
+    <string name="punchline_fish">A fsh</string>
+    <string name="punchline_clock">Its time consuming</string>
+    <string name="comedian_intro">Heres a list of famous comedians and their bits:</string>
+    <string name="dangerfield_label">Rodney Dangerfield:</string>
+    <string name="dangerfield_link">https://www.youtube.com/watch?v=7GfWXN5Lp1s</string>
+    <string name="murphy_label">Eddie Murphy:</string>
+    <string name="murphy_link">https://www.youtube.com/watch?v=fGh52_Rz_BQ</string>
+    <string name="williams_label">Robin Williams:</string>
+    <string name="williams_link">https://www.youtube.com/watch?v=zVnRs5ZkiOo</string>
+    <string name="carlin_label">George Carlin:</string>
+    <string name="carlin_link">https://www.youtube.com/watch?v=Hy-sVByUHqE</string>
+</resources>

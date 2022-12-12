@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.example.jokes.">
+
+    <TextView
+        android:id="@+id/carlin_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:text="@string/carlin_label" />
+
+    <TextView
+        android:id="@+id/carlin_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:text="@string/carlin_link"
+        android:autoLink="web"
+        />
+
+    <TextView
+        android:id="@+id/murphy_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:text="@string/murphy_label" />
+
+    <TextView
+        android:id="@+id/murphy_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:text="@string/murphy_link"
+        android:autoLink="web"
+        />
+
+    <TextView
+        android:id="@+id/dangerfield_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:text="@string/dangerfield_label" />
+
+    <TextView
+        android:id="@+id/dangerfield_label_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:text="@string/carlin_link"
+        android:autoLink="web"
+        />
+
+    <TextView
+        android:id="@+id/williams_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:text="@string/williams_label" />
+
+    <TextView
+        android:id="@+id/williams_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:text="@string/williams_link"
+        android:autoLink="web"
+        />
+</LinearLayout>
